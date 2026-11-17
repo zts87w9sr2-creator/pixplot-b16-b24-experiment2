@@ -4,7 +4,7 @@ This is an independent, genuine second PixPlot run using the 65 B16/B24 field-st
 
 **Website 1:** https://zts87w9sr2-creator.github.io/pixplot-b16-b24-reviewed/
 
-**Website 2 (after publishing):** https://zts87w9sr2-creator.github.io/pixplot-b16-b24-reviewed/website2/
+**Website 2:** https://zts87w9sr2-creator.github.io/pixplot-b16-b24-experiment2/
 
 The source PixPlot UMAP layouts, image atlases and KMeans hotspot JSON from the second run remain unchanged. The HTML and sidebar scripts add a separate human-reviewed subject layer, using the previously student-approved assignments for the 65 common images. The four additional images are marked as a test-image group: this is an experiment flag, not a claim that the images have a common anthropological theme.
 
@@ -26,4 +26,4 @@ The source PixPlot UMAP layouts, image atlases and KMeans hotspot JSON from the 
 
 ## Publishing
 
-Copy the entire folder **website2** into the existing `pixplot-b16-b24-reviewed` repository folder, so `website2/index.html` is inside the repository. In GitHub Desktop: commit, then push. GitHub Pages will serve Website 2 under `/website2/` without changing the Website 1 homepage or its Pages configuration.
+Website 2 is hosted in its **own** repository, `pixplot-b16-b24-experiment2`. Its `index.html`, `assets/`, and `data/` are located directly at the repository root. GitHub Pages is published from the `main` branch, `/(root)`, and serves the independent Website 2 URL above. Website 1 remains in its separate `pixplot-b16-b24-reviewed` repository.
