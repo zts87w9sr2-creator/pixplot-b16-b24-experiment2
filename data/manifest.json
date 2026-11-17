@@ -38,7 +38,7 @@
   "atlas_dir": "output/data/atlases/8f5ea89e-e29a-11f1-a7cd-0a555dc3ca8a",
   "metadata": false,
   "default_hotspots": "output/data/hotspots/hotspot-8f5ea89e-e29a-11f1-a7cd-0a555dc3ca8a.json",
-  "custom_hotspots": "output/data/hotspots/user_hotspots.json",
+  "custom_hotspots": "output/data/hotspots/reviewed_subject_groups.json",
   "gzipped": false,
   "config": {
     "sizes": {
